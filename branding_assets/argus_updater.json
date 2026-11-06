@@ -1,0 +1,9 @@
+{
+    "app_name": "Argus CNC Software",
+    "current_version": "1.0.0",
+    "update_channel": "stable",
+    "manifest_url": "https://raw.githubusercontent.com/productionargus-wq/Argus-CNC-Software/main/version.json",
+    "check_on_startup": true,
+    "auto_install_patches": true,
+    "last_checked": ""
+}

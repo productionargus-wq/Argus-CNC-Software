@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Branding version="1.0">
+    <Application>Argus CNC Software</Application>
+    <WindowTitle>Argus CNC Software</WindowTitle>
+    <ExeName>ArgusCNC</ExeName>
+    <ExeVendor>Argus CNC™</ExeVendor>
+    <ExeVersion>1.0.0</ExeVersion>
+    <WindowIcon>Argus_Icon.ico</WindowIcon>
+    <ProgramLogo>Argus_Logo.png</ProgramLogo>
+    <SplashScreen>Argus_Splash.png</SplashScreen>
+    <AboutImage>Argus_Splash.png</AboutImage>
+    <StartWorkbench>CAMWorkbench</StartWorkbench>
+    <NavigationStyle>Gui::GestureNavigationStyle</NavigationStyle>
+    <CopyrightInfo>Copyright (C) Argus CNC™. All rights reserved.</CopyrightInfo>
+    <MaintainerUrl>https://arguscnc.com</MaintainerUrl>
+    <DesktopFileName>Argus CNC Software</DesktopFileName>
+</Branding>
